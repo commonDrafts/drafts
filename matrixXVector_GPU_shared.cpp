@@ -2,7 +2,6 @@
 
 Matrix and vector multiplier.
 C 1st programm on the way to understanding CUDA.
-Author: gtmartem (https://github.com/gtmartem)
 
 */
 
