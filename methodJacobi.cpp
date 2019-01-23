@@ -3,7 +3,6 @@
 Jacobi iterative method for determining the solutions of a diagonally 
 domination system of linear equations.
 8th programm on the way to understanding MPI.
-Author: Getmanskiy Artem (https://github.com/gtmartem)
 
 */
 
