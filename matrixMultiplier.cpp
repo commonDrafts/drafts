@@ -2,7 +2,6 @@
 
 Matrix multiplier.
 Single process realization with process ticks counter.
-Author: gtmartem (https://github.com/gtmartem)
 
 */
 
